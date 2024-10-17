@@ -1,2 +1,2 @@
 # Testrepo
-This is juct a test repository/
+This is just a test repository.
